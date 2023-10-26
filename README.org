@@ -1,0 +1,4 @@
+[[https://pandoc.org/filters.html][Pandoc Filter]] for my personal use.
+
+Since I've had to convert the =.tex= files into =.docx=, it might be worth it to have some fine tuning done on the conversion.
+
