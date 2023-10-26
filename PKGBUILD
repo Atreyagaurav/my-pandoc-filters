@@ -16,4 +16,5 @@ package() {
     cd "$srcdir"
     mkdir -p "$pkgdir/usr/bin"
     cp "../target/release/my-pandoc-filters" "$pkgdir/usr/bin/my-pandoc-filters"
+    cp "../target/release/pdf2png" "$pkgdir/usr/bin/zpf-pdf2png"
 }
